@@ -4,13 +4,13 @@
 
 <h2>О себе:</h2>
 
-<li><img src="https://smileysplanet.ru/smileys/apple/rocket-1845.png" height="22"> Быстро становлюсь лучше, изучаю новые фреймворки</li>
-<li><img src="https://smileysplanet.ru/smileys/facebook/candy-1699.png" height="22"> Каждый проект стараюсь писать по принципу "синтасический сахар"</li>
+<li><img src="https://smileysplanet.ru/smileys/apple/rocket-1845.png" height="20"> Быстро становлюсь лучше, изучаю новые фреймворки</li>
+<li><img src="https://smileysplanet.ru/smileys/facebook/candy-1699.png" height="20"> Каждый проект стараюсь писать по принципу "синтасический сахар"</li>
 
 
 
 <h3> Мой стэк:</h3>
-(https://daniilshat.ru/)(https://daniilshat.ru/)(https://daniilshat.ru/)(https://daniilshat.ru/)(https://daniilshat.ru/)
+![](https://daniilshat.ru/)![](https://daniilshat.ru/)![](https://daniilshat.ru/)![](https://daniilshat.ru/)![](https://daniilshat.ru/)
 
 
 <!--
