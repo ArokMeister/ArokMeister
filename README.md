@@ -3,9 +3,9 @@
 _________________________________________________
 
 <h3> Мой стэк:</h3>
-<img src="https://simpleicons.org/icons/javascript.svg" height="60">
-<img src="https://simpleicons.org/icons/html5.svg" height="60">
-<img src="https://simpleicons.org/icons/css3.svg" height="60">
+<img src="https://simpleicons.org/icons/javascript.svg" height="60"><img src="https://simpleicons.org/icons/html5.svg" height="60"><img src="https://simpleicons.org/icons/css3.svg" height="60">
+
+
 <img src="https://simpleicons.org/icons/nodedotjs.svg" height="60">
 <img src="https://simpleicons.org/icons/react.svg" height="60">
 
