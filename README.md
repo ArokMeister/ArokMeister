@@ -11,7 +11,9 @@
 
 
 <h3> Мой стэк: </h3>
-<div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30"></div>
+<div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30"></div>
 
 
 <!--
