@@ -4,13 +4,14 @@
 
 <h2>О себе:</h2>
 
-<li><img src="https://smileysplanet.ru/smileys/apple/rocket-1845.png" height="20"> Быстро становлюсь лучше, изучаю новые фреймворки</li>
-<li><img src="https://smileysplanet.ru/smileys/facebook/candy-1699.png" height="20"> Каждый проект стараюсь писать по принципу "синтасический сахар"</li>
-
+<li><img src="https://smileysplanet.ru/smileys/apple/rocket-1845.png" height="20"> - Хочу быстро расти как специалист</li>
+<li><img src="https://smileysplanet.ru/smileys/apple/books-2056.png" height="20"> - Осваивать новые фреймворки и библиотеки</li>
+<li><img src="https://smileysplanet.ru/smileys/apple/handshake-1418.png" height="20"> - Научиться писать human-friendly код</li>
+<li><img src="https://smileysplanet.ru/smileys/apple/man-technologist-light-skin-tone-289.png" height="20"> - Хочу работать с опытными разработчиками</li>
 
 
 <h3> Мой стэк: </h3>
-![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+
 
 
 <!--
