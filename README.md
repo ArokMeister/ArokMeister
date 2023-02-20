@@ -20,42 +20,27 @@
 
 <h2>Мои проекты:</h3>
 
-<h4>Проект "Mesto"</h4>
+<h3>Проект "Mesto"</h4>
 <p>Функционал: Данный проект похож на социальную сеть Instagram, но с меньшим функционалом. Добавлена возможность добавлять фотографии в ленту и ставить на них лайки. Полноценный блок профиля с возможностью настройки имени, блока "О себе" и аватарки.</p>
 <p>Технологии: HTML/CSS, JS, проект собран на WebPack, BEM Nested</p>
 <a href="https://github.com/ArokMeister/mesto">Ссылка на проект</a>
 
-Проект "Путешествия по России"
+<h3>Проект "Путешествия по России"</h4>
+<p>Функционал: Проект выполнен с целью ознакомить пользователя, в какие интересные места в России можно съездить в отпуск. По ссылкам подключены полезные сервисы для планирования данного мероприятия.</p>
+<p>Технологии: HTML/CSS, выполнен с применением Grid</p>
+<a href="https://github.com/ArokMeister/russian-travel">Ссылка на проект</a>
 
-Функционал: Проект выполнен с целью ознакомить пользователя, в какие интересные места в России можно съездить в отпуск. По ссылкам подключены полезные сервисы для планирования данного мероприятия.
+<h3>Проект "Куда я поеду"</h3>
+<p>Функционал: Учебный парный соревновательный проект среди студентов. Реализовали звуковое сопровождение для картинок.</p>
+<p>Технологии: HTML/CSS, JS</p>
+<a href="https://github.com/ArokMeister/kuda-go">Ссылка на проект</a>
 
-Технологии: HTML/CSS, выполнен с применением Grid
-
-Ссылка на проект: https://github.com/ArokMeister/russian-travel
-
-Проект "Куда я поеду"
-
-Функционал: Учебный парный соревновательный проект среди студентов. Реализовали звуковое сопровождение для картинок.
-
-Технологии: HTML/CSS, JS
-
-Ссылка на проект: https://github.com/ArokMeister/kuda-go
-
-Мини-пет проекты на HTML/CSS/JS:
-
-Слайдер галерея: https://codepen.io/ArokMeister/pen/NWBEZZV
-
-Блочный слайдер страницы: https://codepen.io/ArokMeister/pen/eYLObKM
-
-Доска задач: https://codepen.io/ArokMeister/pen/yLxBRwr
-
-Доска с hover эффектами: https://codepen.io/ArokMeister/pen/JjajGgz
-
-Мини aim игра: https://codepen.io/ArokMeister/pen/dyqyRyN
-
-
-
-
+<h3>Мини-пет проекты (выполнены на CodePen) на HTML/CSS/JS:</h3>
+<p>Слайдер галерея: https://codepen.io/ArokMeister/pen/NWBEZZV</p>
+<p>Блочный слайдер страницы: https://codepen.io/ArokMeister/pen/eYLObKM</p>
+<p>Доска задач: https://codepen.io/ArokMeister/pen/yLxBRwr</p>
+<p>Доска с hover эффектами: https://codepen.io/ArokMeister/pen/JjajGgz</p>
+<p>Мини aim игра: https://codepen.io/ArokMeister/pen/dyqyRyN</p>
 
 <h3>Профиль на CodeWars</h3>
 
