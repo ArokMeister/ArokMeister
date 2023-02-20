@@ -11,9 +11,12 @@
 
 
 <h3> Мой стэк: </h3>
-<div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30"></div>
+<div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="40">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="40">
+<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="40">
+<img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" height="40">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40">
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="40"></div>
 
 
 <!--
