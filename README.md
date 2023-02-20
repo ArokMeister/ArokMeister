@@ -10,7 +10,7 @@
 <li><img src="https://smileysplanet.ru/smileys/apple/man-technologist-light-skin-tone-289.png" height="20"> - Хочу работать с опытными разработчиками</li>
 
 
-<h3> Мой стэк: </h3>
+<h2> Мой стэк:</h3>
 <div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="50">
@@ -18,6 +18,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="50"></div>
 
+<h2>Мои проекты:</h3>
 
 
 
@@ -25,10 +26,10 @@
 
 
 
-
+<h3>Профиль на CodeWars</h3>
 [![codewars](https://www.codewars.com/users/ArokMeister/badges/large)](https://www.codewars.com/users/ArokMeister)
 
-ArokMeister
+
 <!--
 **ArokMeister/ArokMeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
