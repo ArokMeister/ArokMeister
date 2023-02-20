@@ -11,14 +11,24 @@
 
 
 <h3> Мой стэк: </h3>
-<div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="40">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="40">
-<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="40">
-<img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" height="40">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="40">
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="40"></div>
+<div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="50">
+<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="50"></div>
 
 
+
+
+
+
+
+
+
+[![codewars](https://www.codewars.com/users/ArokMeister/badges/large)](https://www.codewars.com/users/ArokMeister)
+
+ArokMeister
 <!--
 **ArokMeister/ArokMeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
