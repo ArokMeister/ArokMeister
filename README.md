@@ -1,5 +1,5 @@
-<h1 align="center">Привет, я Денис! <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d8qeysjdiz6lyp7hamzq0t1wws8fb6n0j35sev5p&rid=giphy.gif" height="50"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Привет, я Денис! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я начинающий WEB - разработчик, прохожу обучение в Я.Практикум</h3>
 <!--
 **ArokMeister/ArokMeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
