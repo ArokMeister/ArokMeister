@@ -2,7 +2,13 @@
 <h3 align="center">Я начинающий WEB - разработчик, прохожу обучение в Я.Практикум</h3>
 _________________________________________________
 
-Мой стэк:
+<h3> Мой стэк:</h3>
+<img src="https://simpleicons.org/icons/javascript.svg" height="60">
+<img src="https://simpleicons.org/icons/html5.svg" height="60">
+<img src="https://simpleicons.org/icons/css3.svg" height="60">
+<img src="https://simpleicons.org/icons/nodedotjs.svg" height="60">
+<img src="https://simpleicons.org/icons/react.svg" height="60">
+
 
 <!--
 **ArokMeister/ArokMeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47d8qeysjdiz6lyp7hamzq0t1wws8fb6n0j35sev5p&rid=giphy.gif
