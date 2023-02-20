@@ -9,8 +9,8 @@
 
 
 
-<h3> Мой стэк: ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)</h3>
-![](https://daniilshat.ru/) ![](https://daniilshat.ru/) ![](https://daniilshat.ru/) ![](https://daniilshat.ru/) ![](https://daniilshat.ru/)
+<h3> Мой стэк: </h3>
+![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
 
 <!--
