@@ -1,13 +1,16 @@
 <h1 align="center">Привет, я Денис! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&width=1100&lines=%D0%AF+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+WEB+-+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%2C+%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D1%83+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%AF.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=5000&width=1100&lines=%D0%AF+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+WEB+-+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%2C+%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D1%83+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%AF.%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC" alt="Typing SVG" /></a>
 
-<li><img src="https://smileysplanet.ru/smileys/apple/rocket-1845.png" height="32"> Быстро становлюсь лучше, изучаю новые технологии</li>
 
+<h2>О себе:</h2>
+
+<li><img src="https://smileysplanet.ru/smileys/apple/rocket-1845.png" height="22"> Быстро становлюсь лучше, изучаю новые фреймворки</li>
+<li><img src="https://smileysplanet.ru/smileys/facebook/candy-1699.png" height="22"> Каждый проект стараюсь писать по принципу "синтасический сахар"</li>
 
 
 
 <h3> Мой стэк:</h3>
-
+(https://daniilshat.ru/)(https://daniilshat.ru/)(https://daniilshat.ru/)(https://daniilshat.ru/)(https://daniilshat.ru/)
 
 
 <!--
