@@ -11,7 +11,7 @@
 
 
 <h3> Мой стэк: </h3>
-![JavaScript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)
+![](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)
 
 
 <!--
