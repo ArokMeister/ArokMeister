@@ -10,7 +10,7 @@
 <li><img src="https://smileysplanet.ru/smileys/apple/man-technologist-light-skin-tone-289.png" height="20"> - Хочу работать с опытными разработчиками</li>
 
 
-<h2> Мой стэк: <img src="https://media1.giphy.com/media/nJnNKNC3vGrpbxNlrP/giphy.gif?cid=ecf05e47o93ml9ausxu80g3fpw6xqyfqke9qb8soot7jp8hx&rid=giphy.gif&ct=g" height="20"></h3>
+<h2> Мой стэк: <img src="https://media1.giphy.com/media/nJnNKNC3vGrpbxNlrP/giphy.gif?cid=ecf05e47o93ml9ausxu80g3fpw6xqyfqke9qb8soot7jp8hx&rid=giphy.gif&ct=g" height="24"></h3>
 <div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="50">
