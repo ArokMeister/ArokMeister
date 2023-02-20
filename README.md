@@ -18,7 +18,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="50"></div>
 
-<h2>Мои проекты:</h3>
+<h2>Мои проекты: <img src="https://media3.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e47de6rt3au4xstt68j1bm18glvhlts8txq1ume9w1n&rid=giphy.gif&ct=g" height="15"</h3>
 
 <h3>Проект "Mesto"</h4>
 <p>Функционал: Данный проект похож на социальную сеть Instagram, но с меньшим функционалом. Добавлена возможность добавлять фотографии в ленту и ставить на них лайки. Полноценный блок профиля с возможностью настройки имени, блока "О себе" и аватарки.</p>
