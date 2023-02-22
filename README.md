@@ -10,7 +10,7 @@
 <li><img src="https://smileysplanet.ru/smileys/apple/man-technologist-light-skin-tone-289.png" height="20"> - Хочу работать с опытными разработчиками</li>
 
 
-<h2> Мой стэк:</h3>
+<h2> Мой стэк:</h2>
 <div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="50">
@@ -18,13 +18,13 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="50"></div>
 
-<h2>Мои проекты: <img src="https://media3.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e47de6rt3au4xstt68j1bm18glvhlts8txq1ume9w1n&rid=giphy.gif&ct=g" height="15"</h3>
+<h2>Мои проекты: <img src="https://media3.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e47de6rt3au4xstt68j1bm18glvhlts8txq1ume9w1n&rid=giphy.gif&ct=g" height="15"</h2>
 
-<h3>Проект "Mesto"</h4>
+<h3>Проект "Mesto"</h3>
 <p>Технологии: HTML/CSS, JS, проект собран на WebPack, BEM Nested</p>
 <a href="https://github.com/ArokMeister/mesto">Ссылка на проект</a>
 
-<h3>Проект "Путешествия по России"</h4>
+<h3>Проект "Путешествия по России"</h3>
 <p>Технологии: HTML/CSS, выполнен с применением Grid</p>
 <a href="https://github.com/ArokMeister/russian-travel">Ссылка на проект</a>
 
@@ -39,10 +39,8 @@
 <p>Доска с hover эффектами: https://codepen.io/ArokMeister/pen/JjajGgz</p>
 <p>Мини aim игра: https://codepen.io/ArokMeister/pen/dyqyRyN</p>
 
-
   
 <h3>Профиль на CodeWars</h3>
-
 [![codewars](https://www.codewars.com/users/ArokMeister/badges/large)](https://www.codewars.com/users/ArokMeister)
 
 
