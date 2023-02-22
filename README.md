@@ -36,12 +36,14 @@
   
 [Слайдер галерея](https://codepen.io/ArokMeister/pen/NWBEZZV)
 
-<p>Блочный слайдер страницы: https://codepen.io/ArokMeister/pen/eYLObKM</p>
-<p>Доска задач: https://codepen.io/ArokMeister/pen/yLxBRwr</p>
-<p>Доска с hover эффектами: https://codepen.io/ArokMeister/pen/JjajGgz</p>
-<p>Мини aim игра: https://codepen.io/ArokMeister/pen/dyqyRyN</p>
-
+[Реверсивный блочный слайдер всей страницы](https://codepen.io/ArokMeister/pen/eYLObKM)
   
+[Доска задач (Drag & Drop)](https://codepen.io/ArokMeister/pen/yLxBRwr)
+  
+[Доска с hover эффектами](https://codepen.io/ArokMeister/pen/JjajGgz)
+  
+[Мини игра AIM Shoot](https://codepen.io/ArokMeister/pen/dyqyRyN)
+ 
 <h3>Профиль на CodeWars</h3>
   
 [![codewars](https://www.codewars.com/users/ArokMeister/badges/large)](https://www.codewars.com/users/ArokMeister)
