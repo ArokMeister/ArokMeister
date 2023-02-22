@@ -33,6 +33,7 @@
 <a href="https://github.com/ArokMeister/kuda-go">Ссылка на проект</a>
 
 <h3>Мини-пет проекты (выполнены на CodePen) на HTML/CSS/JS:</h3>
+[Слайдер галерея](https://codepen.io/ArokMeister/pen/NWBEZZV)
 <a src="https://codepen.io/ArokMeister/pen/NWBEZZV">Слайдер галерея</a>
 <p>Блочный слайдер страницы: https://codepen.io/ArokMeister/pen/eYLObKM</p>
 <p>Доска задач: https://codepen.io/ArokMeister/pen/yLxBRwr</p>
