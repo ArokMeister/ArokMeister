@@ -21,15 +21,12 @@
 <h2>Мои проекты: <img src="https://media3.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e47de6rt3au4xstt68j1bm18glvhlts8txq1ume9w1n&rid=giphy.gif&ct=g" height="15"</h2>
 
 <h3>Проект "Mesto"</h3>
-<p>Технологии: HTML/CSS, JS, проект собран на WebPack, BEM Nested</p>
 <a href="https://github.com/ArokMeister/mesto">Ссылка на проект</a>
 
 <h3>Проект "Путешествия по России"</h3>
-<p>Технологии: HTML/CSS, выполнен с применением Grid</p>
 <a href="https://github.com/ArokMeister/russian-travel">Ссылка на проект</a>
 
 <h3>Проект "Куда я поеду"</h3>
-<p>Технологии: HTML/CSS, JS</p>
 <a href="https://github.com/ArokMeister/kuda-go">Ссылка на проект</a>
 
 <h3>Мини-пет проекты (выполнены на CodePen) на HTML/CSS/JS:</h3>
