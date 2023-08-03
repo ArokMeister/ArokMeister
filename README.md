@@ -20,8 +20,8 @@
 <img src="https://cdn-icons-png.flaticon.com/128/1183/1183673.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="50">
 <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" height="50">
-<img src="https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96f/d8623/image.jpg" height="50">
-<img src="https://cdn-icons-png.flaticon.com/128/10041/10041030.png" height="50"></div>
+<img src="https://cdn-icons-png.flaticon.com/128/10041/10041030.png" height="50">
+<img src="https://sjmitchblog.gatsbyjs.io/static/b010f9233278411413e88e0ac9a9c96f/d8623/image.jpg" height="50"></div>
 
 <h2>Мои проекты: <img src="https://media3.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e47de6rt3au4xstt68j1bm18glvhlts8txq1ume9w1n&rid=giphy.gif&ct=g" height="15"</h2>
 
