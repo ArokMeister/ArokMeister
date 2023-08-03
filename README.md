@@ -13,8 +13,6 @@
 <h2> Мой стэк:</h2>
 <div><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" height="50">
-<img src="https://cdn-icons-png.flaticon.com/128/10041/10041037.png" height="50">
-<img src="https://raw.githubusercontent.com/sindresorhus/ky/HEAD/media/logo.svg" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" height="50">
